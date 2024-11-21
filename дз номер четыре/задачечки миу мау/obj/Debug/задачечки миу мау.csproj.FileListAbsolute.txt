@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\bin\Debug\задачечки миу мау.exe.config
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\bin\Debug\задачечки миу мау.exe
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\bin\Debug\задачечки миу мау.pdb
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\obj\Debug\задачечки миу мау.csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\obj\Debug\задачечки миу мау.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\obj\Debug\задачечки миу мау.exe
+C:\Users\Vesna\Desktop\дз номер четыре\задачечки миу мау\obj\Debug\задачечки миу мау.pdb

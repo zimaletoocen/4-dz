@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\bin\Debug\тумаковиегозадачи.exe.config
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\bin\Debug\тумаковиегозадачи.exe
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\bin\Debug\тумаковиегозадачи.pdb
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\obj\Debug\тумаковиегозадачи.csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\obj\Debug\тумаковиегозадачи.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\obj\Debug\тумаковиегозадачи.exe
+C:\Users\Vesna\Desktop\дз номер четыре\тумаковиегозадачи\obj\Debug\тумаковиегозадачи.pdb
